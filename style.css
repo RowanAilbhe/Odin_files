@@ -1,0 +1,16 @@
+html {
+    background-color: darkgreen;
+}
+h1 {font-size: 60px;
+    color: red;
+    height: 70px;
+    text-align: left;
+}
+img {
+    height: 500px;
+     
+}
+a {
+    color: cyan;
+    text-align: center;
+}
